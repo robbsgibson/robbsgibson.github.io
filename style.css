@@ -1,7 +1,7 @@
 body {
   font-family: 'Merriweather', 'helvetica neue', arial, sans-serif;
   font-weight: 300;
-  background: url(blue.png) repeat;
+  background-color: rgba(70,130,180);
 }
 #wrapper {
   width: 960px;
@@ -23,9 +23,7 @@ img {
 	box-shadow: 10px 10px 5px grey;
 	float: right;
 }
-body {
-	background-color: rgba(70,130,180);
-}
+
 
 p, li{
 	line-height: 26px;
