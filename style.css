@@ -15,3 +15,13 @@ img {
 	float: right;
 }
 
+p, li{
+	line-height: 26px;
+}
+
+a {
+	color: red;
+}
+a:hover {
+	color: green;
+}
