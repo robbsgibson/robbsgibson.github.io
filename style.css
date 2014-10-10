@@ -11,16 +11,33 @@ h1 {
 	font-size: 36px;
 }
 
-h4 {
+h2 {
 	font-size: 30px;
 	border: 1px;
-	width: 400px;
-	margin: 10px;
-	padding: 10px;
+	width: 40px;
+	margin: 1px;
+	padding: 1px;
+}
+h3 {
+	font-size: 26px;
+	border: 1px;
+	width: 40px;
+	margin: 1px;
+	padding: 1px;
+}
+h4 {
+	font-size: 20px;
+	border: 1px;
+	width: 40px;
+	margin: 1px;
+	padding: 1px;
 }
 
 h5 {
 	font-size: 12px;
+	width: 40px;
+	margin: 1px;
+	padding: 1px;
 }
 img {
 	border: 1px solid grey;
