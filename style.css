@@ -9,11 +9,16 @@ body {
 }
 h1 {
 	font-size: 36px;
+}
+
+h4 {
+	font-size: 30px;
 	border: 1px;
 	width: 400px;
 	margin: 10px;
 	padding: 10px;
 }
+
 h5 {
 	font-size: 12px;
 }
