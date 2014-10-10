@@ -1,7 +1,7 @@
 body {
   font-family: 'Merriweather', 'helvetica neue', arial, sans-serif;
   font-weight: 300;
-  background-color: rgba(70,130,180);
+  background-color: rgb(70,130,180);
 }
 #wrapper {
   width: 960px;
@@ -24,6 +24,13 @@ img {
 	float: right;
 }
 
+div#wrapper {
+	background-color: rgb(192,192,192);
+	width: 960px;
+	margin: 20px auto;
+	padding: 20px;
+
+}
 
 p, li{
 	line-height: 26px;
